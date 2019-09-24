@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite tests="5" errors="0" name="QuickStart" skipped="0" time="0.682" failures="0">
+<testcase classname="QuickStart" name="User can create an account and log in" time="0.083">
+</testcase>
+<testcase classname="QuickStart" name="User cannot log in with bad password" time="0.082">
+</testcase>
+<testcase classname="QuickStart" name="User can change password" time="0.160">
+</testcase>
+<testcase classname="QuickStart" name="Invalid password" time="0.234">
+</testcase>
+<testcase classname="QuickStart" name="User status is stored in database" time="0.083">
+</testcase>
+</testsuite>
