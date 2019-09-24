@@ -265,7 +265,7 @@ body:
         abcd56789        ${PWD INVALID CONTENT}
         AbCdEfGh         ${PWD INVALID CONTENT}
         abCD56+          ${PWD INVALID CONTENT}
-        Qwert!2345       ${PWD INVALID CONTENT}
+        Qwert12345       ${PWD INVALID CONTENT}
 
 In addition to using the `[Template]` setting with individual tests, it would
 be possible to use the `Test Template` setting once in the settings table like
